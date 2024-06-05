@@ -35,3 +35,11 @@
 <a href="https://komarev.com/ghpvc/?username=AhmedHF&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedHF&style=for-the-badge">
 </a>
+
+
+![Ahmed Hassan GitHub Stats](https://github-readme-stats-theta-three-47.vercel.app/api?username=AhmedHF&show_icons=true&count_private=true)
+
+
+![Top Languages](https://github-readme-stats-theta-three-47.vercel.app/api/top-langs/?username=AhmedHF&layout=compact)
+
+
