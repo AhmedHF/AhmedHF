@@ -46,5 +46,8 @@
 <a href="https://stackoverflow.com/users/5712690" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-05122A?style=flat&logo=stackoverflow" alt="Stack Overflow" /></a>
 <a href="https://www.hackerrank.com/a_hassan19995" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank" alt="HackerRank" /></a>
 </p>
-![Ahmed Hassan GitHub Stats](https://github-readme-stats-theta-three-47.vercel.app/api?username=AhmedHF&show_icons=true&count_private=true)
+<br/>
+<p align="left">
+<img src="https://github-readme-stats-theta-three-47.vercel.app/api?username=AhmedHF&show_icons=true&count_private=true" alt="Ahmed Hassan GitHub Stats" />
+</p>
  
